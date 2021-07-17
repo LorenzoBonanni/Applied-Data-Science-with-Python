@@ -1,0 +1,42 @@
+TITOLO TIPOLOGIA;DESCRIZIONE; COMPETENZA ; CASSA 
+;Fondo pluriennale vincolato per spese correnti;16.917.438,47; -     
+;Fondo pluriennale vincolato per spese in conto capitale;135.705.709,67; -     
+;Utilizzo Risultato di Amministrazione;27.056.265,90; -     
+;Fondo di cassa all 1/1/2017; -     ;311.732.826,02
+10000;TITOLO 1 - Entrate correnti di natura tributaria, contributiva e perequativa;;
+10101;TIPOLOGIA 101 - Imposte, tasse e proventi assimilati;192.574.244,50;188.469.152,20
+10104;TIPOLOGIA 104 - Compartecipazioni di tributi;432,89;14.822,44
+10301;TIPOLOGIA 301 - Fondi perequativi da Amministrazioni Centrali;14.503.907,49;26.890.974,80
+10000;TOTALE TITOLO 1 - Entrate correnti di natura tributaria, contributiva e perequativa;207.078.584,88;215.374.949,44
+20000;TITOLO 2 - Trasferimenti correnti;;
+20101;TIPOLOGIA 101 - Trasferimenti correnti da Amministrazioni pubbliche;165.847.090,86;275.304.489,83
+20103;TIPOLOGIA 103 - Trasferimenti correnti da Imprese; -     ; -     
+20104;TIPOLOGIA 104 - Trasferimenti correnti da Istituzioni Sociali Private; -     ; -     
+20105;TIPOLOGIA 105 - Trasferimenti correnti dall*Unione Europea e dal Resto del Mondo; -     ; -     
+20000;TOTALE TITOLO 2 - Trasferimenti correnti;165.847.090,86;275.304.489,83
+30000;TITOLO 3 - Entrate extratributarie;;
+30100;TIPOLOGIA 100 - Vendita di beni e servizi e proventi derivanti dalla gestione dei beni;6.379.036,74;7.091.861,61
+30200;TIPOLOGIA 200 - Proventi derivanti dall*attivita* di controllo e repressione delle irregolarita* e degli illeciti;1.066.846,11;1.037.383,88
+30300;TIPOLOGIA 300 - Interessi attivi;158.009,92;6.852,85
+30400;TIPOLOGIA 400 - Altre entrate da redditi da capitale;1.812.500,00;1.812.500,00
+30500;TIPOLOGIA 500 - Rimborsi e altre entrate correnti;1.405.242,60;6.856.234,08
+30000;TOTALE TITOLO 3 - Entrate extratributarie;10.821.635,37;16.804.832,42
+40000;TITOLO 4 - Entrate in conto capitale;;
+40200;TIPOLOGIA 200 - Contributi agli investimenti;579.646,41;890.257,43
+40300;TIPOLOGIA 300 - Altri trasferimenti in conto capitale; -     ; -     
+40400;TIPOLOGIA 400 - Entrate da alienazione di beni materiali e immateriali; -     ; -     
+40500;TIPOLOGIA 500 - Altre entrate in conto capitale;2.600.000,00;6.198.024,86
+40000;TOTALE TITOLO 4 - Entrate in conto capitale;3.179.646,41;7.088.282,29
+50000;TITOLO 5 - Entrate da riduzione di attivita' finanziarie;;
+50100;TIPOLOGIA 100 - Alienazione di attivita* finanziarie; -     ;4.364,57
+50400;TIPOLOGIA 400 - Altre entrate per riduzione di attivita* finanziarie;74.169,84; -     
+50000;TOTALE TITOLO 5 - Entrate da riduzione di attivita' finanziarie;74.169,84;4.364,57
+60000;TITOLO 6 - Accensione di prestiti;;
+60200;TIPOLOGIA 200 - Accensione prestiti a breve termine; -     ; -     
+60000;TOTALE TITOLO 6 - Accensione di prestiti; -     ; -     
+90000;TITOLO 9 - Entrate per conto terzi e partite di giro;;
+90100;TIPOLOGIA 100 - Entrate per partite di giro;33.376.135,01;33.378.520,91
+90200;TIPOLOGIA 200 - Entrate per conto terzi;2.416.689,00;2.474.256,61
+90000;TOTALE TITOLO 9 - Entrate per conto terzi e partite di giro;35.792.824,01;35.852.777,52
+;Totale Titoli;422.793.951,37;550.429.696,07
+;Totale generale delle Entrate;602.473.365,41;862.162.522,09

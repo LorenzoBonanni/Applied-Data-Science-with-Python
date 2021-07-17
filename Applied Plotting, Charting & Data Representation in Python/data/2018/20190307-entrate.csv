@@ -1,0 +1,42 @@
+ ;Fondo pluriennale vincolato per spese correnti;23233242,63; ;X
+ ;Fondo pluriennale vincolato per spese in conto capitale;108050343,48; ;X
+ ;Utilizzo Risultato di Amministrazione;90242663,63; ;X
+ ;Fondo di cassa all 1/1/2018; ;433216038,77;X
+TITOLO TIPOLOGIA;DESCRIZIONE;COMPETENZA;CASSA;X
+10000;TITOLO 1 - Entrate correnti di natura tributaria, contributiva e perequativa;;;X
+10101;TIPOLOGIA 101 - Imposte, tasse e proventi assimilati;191406321,46;184330058,79;X
+10104;TIPOLOGIA 104 - Compartecipazioni di tributi;0;8281,57;X
+10301;TIPOLOGIA 301 - Fondi perequativi da Amministrazioni Centrali;14503907,49;8343327,34;X
+10000;TOTALE TITOLO 1 - Entrate correnti di natura tributaria, contributiva e perequativa;205910228,95;192681667,7;X
+20000;TITOLO 2 - Trasferimenti correnti;;;X
+20101;TIPOLOGIA 101 - Trasferimenti correnti da Amministrazioni pubbliche;161684919,93;266787121,26;X
+20103;TIPOLOGIA 103 - Trasferimenti correnti da Imprese;0;0;X
+20104;TIPOLOGIA 104 - Trasferimenti correnti da Istituzioni Sociali Private;0;0;X
+20105;TIPOLOGIA 105 - Trasferimenti correnti dall*Unione Europea e dal Resto del Mondo;0;0;X
+20000;TOTALE TITOLO 2 - Trasferimenti correnti;161684919,93;266787121,26;X
+30000;TITOLO 3 - Entrate extratributarie;;;X
+30100;TIPOLOGIA 100 - Vendita di beni e servizi e proventi derivanti dalla gestione dei beni;6489996,26;5928297,27;X
+30200;TIPOLOGIA 200 - Proventi derivanti dall*attivita* di controllo e repressione delle irregolarita* e degli illeciti;1288690,49;1137599,27;X
+30300;TIPOLOGIA 300 - Interessi attivi;9520,27;9792,66;X
+30400;TIPOLOGIA 400 - Altre entrate da redditi da capitale;3718750;3718750;X
+30500;TIPOLOGIA 500 - Rimborsi e altre entrate correnti;2008873,01;2340781,3;X
+30000;TOTALE TITOLO 3 - Entrate extratributarie;13515830,03;13135220,5;X
+40000;TITOLO 4 - Entrate in conto capitale;;;X
+40200;TIPOLOGIA 200 - Contributi agli investimenti;3134652,32;2971012,34;X
+40300;TIPOLOGIA 300 - Altri trasferimenti in conto capitale;0;0;X
+40400;TIPOLOGIA 400 - Entrate da alienazione di beni materiali e immateriali;0;0;X
+40500;TIPOLOGIA 500 - Altre entrate in conto capitale;30;30;X
+40000;TOTALE TITOLO 4 - Entrate in conto capitale;3134682,32;2971042,34;X
+50000;TITOLO 5 - Entrate da riduzione di attivita' finanziarie;;;X
+50100;TIPOLOGIA 100 - Alienazione di attivita* finanziarie;0;0;X
+50400;TIPOLOGIA 400 - Altre entrate per riduzione di attivita* finanziarie;0;0;X
+50000;TOTALE TITOLO 5 - Entrate da riduzione di attivita' finanziarie;0;0;X
+60000;TITOLO 6 - Accensione di prestiti;;;X
+60200;TIPOLOGIA 200 - Accensione prestiti a breve termine;105436,08;105436,08;X
+60000;TOTALE TITOLO 6 - Accensione di prestiti;105436,08;105436,08;X
+90000;TITOLO 9 - Entrate per conto terzi e partite di giro;;;X
+90100;TIPOLOGIA 100 - Entrate per partite di giro;32844972,15;32824709,6;X
+90200;TIPOLOGIA 200 - Entrate per conto terzi;1411865,45;1620074,48;X
+90000;TOTALE TITOLO 9 - Entrate per conto terzi e partite di giro;34256837,6;34444784,08;X
+ ;Totale Titoli;418607934,91;510125271,96;X
+ ;Totale generale delle Entrate;640134184,65;943341310,73;X
